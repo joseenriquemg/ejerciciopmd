@@ -1,0 +1,45 @@
+src/exament3/Parchis.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/exament3/Parchis.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/exament3/Parchis.java:8:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'dado1'
+src/exament3/Parchis.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/exament3/Parchis.java:8:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/exament3/Parchis.java:8:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/exament3/Parchis.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'fichaJ1'
+src/exament3/Parchis.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/exament3/Parchis.java:10:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/exament3/Parchis.java:10:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'fichaJ1'
+src/exament3/Parchis.java:10:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'fichaJ2'
+src/exament3/Parchis.java:12:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'nomJ1'
+src/exament3/Parchis.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/exament3/Parchis.java:12:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/exament3/Parchis.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/exament3/Parchis.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/exament3/Parchis.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nomJ1' is not assigned and could be declared final
+src/exament3/Parchis.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nomJ2' is not assigned and could be declared final
+src/exament3/Parchis.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/exament3/Parchis.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rand' could be declared final
+src/exament3/Parchis.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/exament3/Parchis.java:31:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/exament3/Parchis.java:33:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/exament3/Parchis.java:35:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/exament3/Parchis.java:37:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/exament3/Parchis.java:41:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/exament3/Parchis.java:43:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/exament3/Parchis.java:47:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/exament3/Parchis.java:50:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/exament3/Parchis.java:54:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/exament3/Parchis.java:56:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/exament3/Parchis.java:59:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/exament3/Parchis.java:64:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/exament3/Parchis.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'jugador' is not assigned and could be declared final
+src/exament3/Parchis.java:65:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'tirada' could be declared final
+src/exament3/Parchis.java:67:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/exament3/Parchis.java:73:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/exament3/Parchis.java:82:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/exament3/Parchis.java:84:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/exament3/Parchis.java:86:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/exament3/Parchis.java:88:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/exament3/Parchis.java:90:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/exament3/Parchis.java:93:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/exament3/Parchis.java:96:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/exament3/Parchis.java:98:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
